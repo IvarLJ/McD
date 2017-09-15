@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/u/8767424/WWW/Clear-consultant.ipa</string>
+					<string>https://rawgit.com/IvarLJ/McD/master/Clear-consultant.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/u/8767424/WWW/ClearFranIcon40%402x.png</string>
+					<string>https://rawgit.com/IvarLJ/McD/master/ClearFranIcon40%402x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>hhttps://dl.dropboxusercontent.com/u/8767424/WWW/ClearFranIcon40%401x.png</string>
+					<string>https://rawgit.com/IvarLJ/McD/master/ClearFranIcon40%401x.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
